@@ -1,6 +1,10 @@
 .mudar{
     list-style: square;
+    font-size: larger;
+    font-style: italic;
 }
 .mudar2{
     list-style-type: upper-roman;
+    font-size: larger;
+    font-style: oblique;
 }
