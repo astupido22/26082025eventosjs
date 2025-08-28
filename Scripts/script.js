@@ -9,5 +9,5 @@ console.log(listaItens);
 // });
 const cor = document.getElementById('btn');
 cor.addEventListener('click', function(){
-    document.body.style.backgroundColor = '#8B0000' 
+    document.body.style.backgroundColor = '#B0E0E6'
 });
