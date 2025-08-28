@@ -4,3 +4,6 @@
 .mudar2{
     list-style-type: upper-roman;
 }
+body{
+    background-image: -moz-linear-gradient(to right, #ff7e5f, #feb47b);
+}
